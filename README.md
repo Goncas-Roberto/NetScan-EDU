@@ -7,7 +7,7 @@ App "NetScan Edu" – Ferramenta de diagnóstico de Redes Locais para fins educa
 
 ## 📖 Índice
 
-- [Introdução](#-introducão)
+- [Introdução](#-introdução)
 - [MVP's](#-mvps)
 - [Metedologia](#-metedologia)
 - [Stack Técnica](#-stack-técnica)
