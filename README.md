@@ -12,20 +12,20 @@ App "NetScan Edu" – Ferramenta de diagnóstico de Redes Locais para fins educa
 - [Metedologia](#-metedologia)
 - [Stack Técnica](#-stack-tecnica)
 
-##Introdução
+## Introdução
 
 O projeto tem como iniciativa criar uma aplicação que use as binárias do [NMAP](https://nmap.org/), e que faça um output a um frontend de [React Native (EXPO) ](https://expo.dev/). Cuja finalidade é mostrar estatística de rede local e ser alvo de aprendizagem prática para os alunos do grupo.
 
-##📌 MVP's
+## 📌 MVP's
 
 - [MVP 1](/mvp1)
 - [MVP FINAL](/mvpfinal)
 
-##📋 Metedologia
+## 📋 Metedologia
 
 TBA
 
-##🛠 Stack Técnica
+## 🛠 Stack Técnica
 
 ### Modelo OSI
                 
