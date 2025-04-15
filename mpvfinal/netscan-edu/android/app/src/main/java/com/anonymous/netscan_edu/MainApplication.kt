@@ -27,7 +27,6 @@ class MainApplication : Application(), ReactApplication {
             // packages.add(new MyReactNativePackage());
             return packages
           }
-// Unable to load script. Make sure you're either running metro (
           override fun getJSMainModuleName(): String = ".expo/.virtual-metro-entry"
 
           override fun getUseDeveloperSupport(): Boolean = BuildConfig.DEBUG

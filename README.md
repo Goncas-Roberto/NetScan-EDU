@@ -1,33 +1,41 @@
-# NetScan-EDU (PROJETO)
+# NetScan-EDU
 
-Projeto de Redes Informáticas CTesP turma D.D.M 1º Ano 2025 (Equipa João)
+**Projeto de Redes Informáticas CTesP turma D.D.M 1º Ano 2025**
+*(Equipa João)*
 
-App "NetScan Edu" – Ferramenta de diagnóstico de redes locais
+App "NetScan Edu" – Ferramenta de diagnóstico de Redes Locais para fins educativos.
 
-## Índice
+## 📖 Índice
 
-- [Setup Inicial](#Setup)
-## Setup
+- [Introdução](#-introducao)
+- [MVP's](#-mvp)
+- [Metedologia](#-metedologia)
+- [Stack Técnica](#-stack-tecnica)
 
-1. Instalar [Git](https://git-scm.com/).
+##Introdução
 
-2. Seguir o [guia do React Native para o setup do ambiente de desenvolvimento](https://reactnative.dev/docs/set-up-your-environment).
+O projeto tem como iniciativa criar uma aplicação que use as binárias do [NMAP](https://nmap.org/), e que faça um output a um frontend de [React Native (EXPO) ](https://expo.dev/). Cuja finalidade é mostrar estatística de rede local e ser alvo de aprendizagem prática para os alunos do grupo.
 
-3. Clonar o projeto através do git (TERMINAL).
+##📌 MVP's
 
-```bash
-git clone git@github.com:Goncas-Roberto/NetScan-EDU.git
-```
+- [MVP 1](/mvp1)
+- [MVP FINAL](/mvpfinal)
 
-4. Instalar as dependências do projeto
-   
-```
-cd NetScan-EDU/netscan-edu
-npm install
-```
+##📋 Metedologia
 
-5. Executar Projeto no diretório
+TBA
 
-```bash
-npm run
-```
+##🛠 Stack Técnica
+
+### Modelo OSI
+                
+1. Física :
+2. Enlance :
+3. Rede :
+4. Transporte :
+5. Sessão :
+6. Apresentação :
+7. Aplicação :
+
+
+## [Licença](LICENSE)

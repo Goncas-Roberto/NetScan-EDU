@@ -1,6 +1,6 @@
 import { AppRegistry } from 'react-native';
 import { registerRootComponent } from 'expo';
-import App from './App';
+import App from './teste.tsx';
 import { name as appName } from './app.json';
 
 // Registar a App para o Android-SDK (Android-Studio)
