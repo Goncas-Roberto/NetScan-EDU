@@ -11,8 +11,9 @@ App "NetScan Edu" – Ferramenta de diagnóstico de Redes Locais para fins educa
 - [MVP's](#-mvps)
 - [Metedologia](#-metedologia)
 - [Stack Técnica](#-stack-técnica)
+- [Licença](#-licença)
 
-## Introdução
+## 🚀 Introdução
 
 O projeto tem como iniciativa criar uma aplicação que use as binárias do [NMAP](https://nmap.org/), e que faça um output a um frontend de [React Native (EXPO) ](https://expo.dev/). Cuja finalidade é mostrar estatística de rede local e ser alvo de aprendizagem prática para os alunos do grupo.
 
@@ -38,4 +39,4 @@ TBA
 7. Aplicação :
 
 
-## [Licença](LICENSE)
+## [📄 Licença](LICENSE)
